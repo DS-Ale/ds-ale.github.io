@@ -4,7 +4,7 @@
 
 ### ML & Data Science
 
-[Diamonds Price Estimation 💎](/diamonds-price-estimation)
+[Diamonds Price Estimation 💎](https://github.com/DS-Ale/diamonds-price-estimation)
 <img src="images/diamond.png?raw=true"/>
 
 ---
