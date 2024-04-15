@@ -44,7 +44,8 @@
   available pre-trained neural network model and a common webcam.
 
 - ### ProjectFC 🔫
-  <img src="images/projectfc.jpg?raw=true" width=40%/>
+  <img src="images/projectfc.jpg?raw=true" width=600/>
+  <img src="images/projectfc-editor.jpg?raw=true" width=600/>
     
   #### Overview
   Development of a 2D top-down shooter game for an (group) University project, using bare Java.
