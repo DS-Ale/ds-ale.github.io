@@ -4,27 +4,50 @@
 
 ## ML & Data Science
 
-- ### [Diamonds Price Estimation 💎](https://github.com/DS-Ale/diamonds-price-estimation)
-<img src="images/diamond.png?raw=true"/>
+- ### [2024] [Diamonds Price Estimation 💎](https://github.com/DS-Ale/diamonds-price-estimation)
+  <img src="images/diamond.png?raw=true"/>
 
+  #### Overview
+  Personal project aimed to predict the price of a diamond, based on its characteristics.
+
+  #### Specifics
+  Modeling of a Jupyter Notebook, following the main phases of the CRISP-DM methodology. Model deployment and API building via small webapp made in Flask.
+
+  #### Tools
+  _Python, Pandas, Numpy, Matplot, Seaborn, Scikit-learn, Flask_
+
+- ### [2021] [Diabetes Hospital Readmission 🏥](https://colab.research.google.com/drive/1atji4Lg2bZMVISs-bnhfdF3mTB1Xs8cp)
+  <img src="images/diabetes_readmissions.png?raw=true" width=600/>
+
+  #### Overview
+  Group University project aimed to predict whether or not a diabetic patient will be readmitted within 30 days of discharge.
+
+  #### Specifics
+  Modeling of a Jupyter Notebook, following the main phases of the CRISP-DM methodology, from Business Understanding to Model Evaluation.
+
+  #### Tools
+  _Python, Pandas, Numpy, Matplot, Seaborn, Scikit-learn_
 ---
 
 ## GameDev & similar
-- ### SCI-FC 👾
+- ### [2022] SCI-FC 👾
   <img src="images/scifc.png?raw=true" width=600/>
   
   #### Overview
   Development of a 3D top-down shooter game for an University project, using Unity engine.
   
   #### Specifics
-  We will impersonate a Scavenger, a person who travels in search of abandoned structures
-  to retrieve wreckage and valuables, but this time she gets stuck inside a spaceship soon
-  after docking.
-  In addition to the use of firearms, she will have the opportunity to learn certain powers
-  (Skills) that will be performed by Nanites (Nanorobots) that she will accumulate during the
-  journey, producing "magical" effects.
+  The main goal of the project is to gain as much knowledge as possible about the Unity
+  engine and the main approaches and "know-how" of Game Design. This implies
+  interfacing with various horizontal knowledge, from Programming to Animation.
   
-- ### [DOUTFIT 👗](https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn)
+  Player can use various firearms, scattered across the levels, and special powers that can be
+  activated using "Nanites" (Nanorobots).
+  
+  #### Tools
+  _C#, Unity_
+  
+- ### [2022] [DOUTFIT 👗](https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn)
   <img src="images/doutfit.png?raw=true" width=600/>
   
   #### Overview
@@ -43,18 +66,24 @@
   As a side project, a Virtual Try On was also developed as a desktop application, using an
   available pre-trained neural network model and a common webcam.
 
-- ### ProjectFC 🔫
+  #### Tools
+  _C#, Unity, Test-Driven Development, Neural Network_
+
+- ### [2016] ProjectFC 🔫
   <img src="images/projectfc.jpg?raw=true" width=600/>
   <img src="images/projectfc-editor.jpg?raw=true" width=600/>
     
   #### Overview
-  Development of a 2D top-down shooter game for an (group) University project, using bare Java.
+  Development of a 2D top-down shooter game for a group University project, using bare Java.
   
   #### Specifics
   The game is an Arcade tactical shooter with a top-down view.
 
   The player's objective will be to reach a goal, located at the end of the level opposite the starting box, by surviving enemy attacks.
   There are three difficulty levels available, four types of weapons, two powerups and a level editor.
+
+  #### Tools
+  _Java, JavaFX, Java AWT/Swing_
 
 ---
 
