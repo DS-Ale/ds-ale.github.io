@@ -43,6 +43,9 @@
   
   Player can use various firearms, scattered across the levels, and special powers that can be
   activated using "Nanites" (Nanorobots).
+
+  #### Materials
+  - [Game Design Document w/ Development Details](/pdf/Sci-FC_GDD_en.pdf)
   
   #### Tools
   _C#, Unity_
