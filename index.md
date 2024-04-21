@@ -27,6 +27,21 @@
 
   #### Tools
   _Python, Pandas, Numpy, Matplot, Seaborn, Scikit-learn_
+
+- ### [2020] Kickstarter Projects Analysis 📊
+  <img src="images/kickstarter-logo.png?raw=true" width=600/>
+
+  #### Overview
+  Personal university project. Defining a data mart from a CSV dataset. Analysis of Kickstarter projects up to 2018.
+
+  #### Specifics
+  Starting from a CSV dataset, perform Data Understanding and Data Cleaning steps, define the attribute tree, the Dimensional Fact Model and the Star Schema, ready to be analyzed.
+
+  #### Materials
+  - [Design and analysis report](/pdf/kickstarter_datamart.pdf)
+
+  #### Tools
+  _Excel, Pentaho Data Integration, MySQL, Tableau Prep, Tableau_
 ---
 
 ## GameDev & similar
@@ -34,7 +49,7 @@
   <img src="images/scifc.png?raw=true" width=600/>
   
   #### Overview
-  Development of a 3D top-down shooter game for an University project, using Unity engine.
+  Development of a 3D top-down shooter game for a personal University project, using Unity engine.
   
   #### Specifics
   The main goal of the project is to gain as much knowledge as possible about the Unity
