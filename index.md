@@ -7,7 +7,7 @@
 - ### [2024] <a href="https://www.kaggle.com/code/desimale/melanoma-detection-vgg16" target="_blank">Melanoma Detection 🔬</a>
   <img src="images/cancer_cell.png?raw=true"  width=300/>
 
-  <sup>*Image by <a href="https://pixabay.com/users/mcmurryjulie-2375405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423">mcmurryjulie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423">Pixabay</a>*</sup>
+  <sup>*Image by <a href="https://pixabay.com/users/mcmurryjulie-2375405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423" target="_blank">mcmurryjulie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423" target="_blank">Pixabay</a>*</sup>
 
   #### Overview
   Personal Notebook that aims to detect whether a mole is benign or malignant, based on its picture.
@@ -21,7 +21,7 @@
   #### Tools
   _Python, Keras, Numpy, Matplot, Seaborn, Scikit-learn, ClearML_
 
-- ### [2024] [Diamonds Price Estimation 💎](https://github.com/DS-Ale/diamonds-price-estimation)
+- ### [2024] <a href="https://github.com/DS-Ale/diamonds-price-estimation" target="_blank">Diamonds Price Estimation 💎</a>
   <img src="images/diamond.png?raw=true"/>
 
   #### Overview
@@ -33,7 +33,7 @@
   #### Tools
   _Python, Pandas, Numpy, Matplot, Seaborn, Scikit-learn, Flask_
 
-- ### [2021] [Diabetes Hospital Readmission 🏥](https://colab.research.google.com/drive/1atji4Lg2bZMVISs-bnhfdF3mTB1Xs8cp)
+- ### [2021] <a href="https://colab.research.google.com/drive/1atji4Lg2bZMVISs-bnhfdF3mTB1Xs8cp" target="_blank">Diabetes Hospital Readmission 🏥</a>
   <img src="images/diabetes_readmissions.png?raw=true" width=600/>
 
   #### Overview
@@ -55,7 +55,7 @@
   Starting from a CSV dataset, perform Data Understanding and Data Cleaning steps, define the attribute tree, the Dimensional Fact Model and the Star Schema, ready to be analyzed.
 
   #### Materials
-  - [Design and analysis report](/pdf/kickstarter_datamart.pdf)
+  - <a href="/pdf/kickstarter_datamart.pdf" target="_blank">Design and analysis report</a>
 
   #### Tools
   _Excel, Pentaho Data Integration, MySQL, Tableau Prep, Tableau_
@@ -77,7 +77,7 @@
   activated using "Nanites" (Nanorobots).
 
   #### Materials
-  - [Game Design Document w/ Development Details](/pdf/Sci-FC_GDD_en.pdf)
+  - <a href="/pdf/Sci-FC_GDD_en.pdf" target="_blank">Game Design Document w/ Development Details</a>
   
   #### Tools
   _C#, Unity_
@@ -102,7 +102,7 @@
   available pre-trained neural network model and a common webcam.
 
   #### Materials
-  - [Demo Video](https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn)
+  - <a href="https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn" target="_blank">Demo Video</a>
   
   #### Tools
   _C#, Unity, Test-Driven Development, Neural Network_
@@ -129,5 +129,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" target="_blank">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
