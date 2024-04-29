@@ -4,6 +4,23 @@
 
 ## ML & Data Science
 
+- ### [2024] <a href="https://www.kaggle.com/code/desimale/melanoma-detection-vgg16" target="_blank">Melanoma Detection 🔬</a>
+  <img src="images/cancer_cell.png?raw=true"  width=300/>
+
+  <sup>*Image by <a href="https://pixabay.com/users/mcmurryjulie-2375405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423">mcmurryjulie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2797423">Pixabay</a>*</sup>
+
+  #### Overview
+  Personal Notebook that aims to detect whether a mole is benign or malignant, based on its picture.
+
+  #### Specifics
+  The dataset consists of **13,900** images, sized 224x224 and divided (almost) equally between *Benign* and *Malignant*.
+  
+  Modeling of a convolutional neural network through Jupyter Notebook, using Keras and the VGG-16 pretrained network.
+  Tracking of experiments through the ClearML platform.
+
+  #### Tools
+  _Python, Keras, Numpy, Matplot, Seaborn, Scikit-learn, ClearML_
+
 - ### [2024] [Diamonds Price Estimation 💎](https://github.com/DS-Ale/diamonds-price-estimation)
   <img src="images/diamond.png?raw=true"/>
 
@@ -65,7 +82,7 @@
   #### Tools
   _C#, Unity_
   
-- ### [2022] [DOUTFIT 👗](https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn)
+- ### [2022] DOUTFIT 👗
   <img src="images/doutfit.png?raw=true" width=600/>
   
   #### Overview
@@ -84,6 +101,9 @@
   As a side project, a Virtual Try On was also developed as a desktop application, using an
   available pre-trained neural network model and a common webcam.
 
+  #### Materials
+  - [Demo Video](https://drive.google.com/file/d/1D-aKbmgMVOHrAOA8DREXuFoKA41vDzVn)
+  
   #### Tools
   _C#, Unity, Test-Driven Development, Neural Network_
 
