@@ -1,14 +1,11 @@
 title: Alessandro De Simone
 #logo: "/images/logo.png?raw=true"
 description: >
-  I hold a Master's degree in Computer Science, specialising in Artificial Intelligence and Videogames, the two areas that interest me most, for which I completed some university projects.
-  <br>
-  Currently I am actively involved in the virtualization of services and test automation. Furthermore, I am engaged in the design and implementation of a 3D simulation utilizing the Unity graphics engine.
-
+  I hold a Master's degree in Computer Science, specialising in Artificial Intelligence and Videogames, the two areas that interest me most. You can find some of the university (and personal) projects here.
   <br><br>
-  In my spare time, I am a 3D printing enthusiast and I have recently gotten into self-hosting, using Proxmox and Docker.
+  In my spare time, I play videogames and read books. I am also a 3D printing enthusiast and I have recently gotten into self-hosting, using Proxmox and Docker.
   <br><br>
-  <a href="https://www.linkedin.com/in/alessandro-de-simone-065353271">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alessandro-de-simone-065353271" target="_blank">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
