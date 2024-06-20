@@ -4,9 +4,12 @@ description: >
   I hold a Master's degree in Computer Science, specialising in Artificial Intelligence and Videogames, the two areas that interest me most. You can find some of the university (and personal) projects here.
   <br><br>
   In my spare time, I play videogames and read books. I am also a 3D printing enthusiast and I have recently gotten into self-hosting, using Proxmox and Docker.
-  <br>
-  <a href="#ml--data-science">ML & Data Science projects</a><br>
-  <a href="#gamedev--similar">GameDev projects</a>
+  <br><br>
+  <b>Sections:</b>
+  <ul>
+    <li><a href="#ml--data-science">ML & Data Science projects</a></li>
+    <li><a href="#gamedev--similar">GameDev projects</a></li>
+  </ul>
   
   <br><br>
   <a href="https://www.linkedin.com/in/alessandro-de-simone-065353271" target="_blank">LinkedIn Profile</a> 
