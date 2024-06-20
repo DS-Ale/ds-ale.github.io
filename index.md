@@ -78,6 +78,7 @@
 
   #### Materials
   - <a href="/pdf/Sci-FC_GDD_en.pdf" target="_blank">Game Design Document w/ Development Details</a>
+  - <a href="https://drive.google.com/file/d/1ATeUWdkMjxse1viQkx5cMt4dw9WXFv4Z" target="_blank">Demo Video</a>
   
   #### Tools
   _C#, Unity_
